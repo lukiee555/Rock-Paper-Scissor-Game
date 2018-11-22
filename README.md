@@ -12,4 +12,4 @@ extending it towards their opponent. Variations include a version where players 
 their gesture (thus throwing on the count of "Scissors!" or "Bo!"), or a version where they shake their hands three times
 before "throwing".
 
-I used use JavaScript, HTML, and CSS to create a Rock Paper Scissors Game in the browser.
+I used JavaScript, HTML, and CSS to create a Rock Paper Scissors Game in the browser.
